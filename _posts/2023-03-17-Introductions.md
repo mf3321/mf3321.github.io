@@ -9,7 +9,7 @@ Data science will be my third career. My first was translation. I worked for ove
 I am a driven and hardworking professional who has a reputation for rigorous quality in all that I do. I am looking to leverage my problem-solving skills and varied experience by transitioning into the field of data.</blockquote></p>
 <p>The hardest to write was the 6-word summary. Six words gets you the barest of descriptions. Here’s what I wrote:
 <blockquote>Future data science writer and researcher</blockquote></p>
-If I had just a few words more, I would have written:
+<p>If I had just a few words more, I would have written:
 <blockquote>Researcher and writer seeking to put data to good use</blockquote>
 I wasn’t really thrilled about either of them, but couldn’t think of anything better at the time.</p>
 <p>The 15-word summary provides just enough space to include additional ideals or details:
