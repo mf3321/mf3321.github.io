@@ -2,7 +2,7 @@
 <p>I copied and pasted the text into an MSWord document and used the “Find and Replace” tool to clean up the text a bit before re-pasting into .txt files. I opted for code to remove both stopwords (provided from the Natural Language Toolkit (NLTK) corpus) and punctuation.</p>
 
 <p>We were asked to create a word cloud as part of the assignment, which I did using the WordCloud library.</p>
-![word cloud](/docs/assets/bollinger_wordcloud.jpg)
+<p align="center">![word cloud](/docs/assets/bollinger_wordcloud.jpg)</p>
 
 <p>I used the CountVectorizer method to obtain word frequencies. The output produced 5166 columns representing the unique words found in the addresses. Bollinger is a distinguished scholar with deep and broad interests, which is reflected in his expansive vocabulary. I also looked at the correlation between addresses. All values came in between 0.28 and 0.48, with the majority in the 0.3s. It appears Bollinger writes fairly original addresses every year. The most highly correlated addresses appear to be 2013 and 2015 (0.488097), and the least correlated addresses appear to be 2003 and 2020 (0.288031).</p>
 ![correlation](/docs/assets/bollinger_correlation.jpg)
