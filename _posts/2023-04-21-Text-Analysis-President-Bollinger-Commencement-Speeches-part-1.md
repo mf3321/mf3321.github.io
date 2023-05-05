@@ -1,8 +1,8 @@
 <p>For Advanced Analytic Techniques (GR5018), our second lab assignment had us carry out some analysis on texts of our choosing. Examples in class drew mostly from State of the Union addresses by US presidents, or other speeches by US politicians. I opted for something closer to home, and chose to look at the <a href="https://president.columbia.edu/content/speeches-archive">commencement addresses</a> of Columbia University’s president, Lee C. Bollinger. Bollinger will step down at the end of June 2023 after 21 years at the helm. My analysis is therefore on the incomplete “set” of addresses, but I do plan on revisiting after Commencement in a few weeks time. I also did not conduct any topic modeling, which I would like to do. I can make some guesses about the topics that appear and reappear in his speeches; but it will be interesting to do the actual analysis.</p>
 <p>I copied and pasted the text into an MSWord document and used the “Find and Replace” tool to clean up the text a bit before re-pasting into .txt files. I opted for code to remove both stopwords (provided from the Natural Language Toolkit (NLTK) corpus) and punctuation.</p>
 
-We were asked to create a word cloud as part of the assignment, which I did using the WordCloud library.
-![word cloud](/docs/assets/bollinger_wordcloud.jpg)
+<p>We were asked to create a word cloud as part of the assignment, which I did using the WordCloud library.
+![word cloud](/docs/assets/bollinger_wordcloud.jpg)</p>
 
 <p>I used the CountVectorizer method to obtain word frequencies. The output produced 5166 columns representing the unique words found in the addresses. Bollinger is a distinguished scholar with deep and broad interests, which is reflected in his expansive vocabulary. I also looked at the correlation between addresses. All values came in between 0.28 and 0.48, with the majority in the 0.3s. It appears Bollinger writes fairly original addresses every year. The most highly correlated addresses appear to be 2013 and 2015 (0.488097), and the least correlated addresses appear to be 2003 and 2020 (0.288031).
 ![correlation](/docs/assets/bollinger_correlation.jpg)</p>
@@ -18,6 +18,5 @@ We were asked to create a word cloud as part of the assignment, which I did usin
   
 <p>This graph plots Bollinger's most volatile addresses.
 ![sentiment progress plot 3](/docs/assets/bollinger_sentiment3.jpg)</p>
-
 
 <p>I am looking forward to taking a look at the complete “set.”</p>
