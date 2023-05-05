@@ -2,7 +2,6 @@
 <p>I copied and pasted the text into an MSWord document and used the “Find and Replace” tool to clean up the text a bit before re-pasting into .txt files. I opted for code to remove both stopwords (provided from the Natural Language Toolkit (NLTK) corpus) and punctuation.</p>
 
 We were asked to create a word cloud as part of the assignment, which I did using the WordCloud library.
-![word cloud](mf3321/doc-assets/bollinger_wordcloud.jpg)
 
 <p>I used the CountVectorizer method to obtain word frequencies. The output produced 5166 columns representing the unique words found in the addresses. Bollinger is a distinguished scholar with deep and broad interests, which is reflected in his expansive vocabulary. I also looked at the correlation between addresses. All values came in between 0.28 and 0.48, with the majority in the 0.3s. It appears Bollinger writes fairly original addresses every year. The most highly correlated addresses appear to be 2013 and 2015 (0.488097), and the least correlated addresses appear to be 2003 and 2020 (0.288031).</p>
 <p>I used the Textblob library to measure sentiment subjectivity and polarity. Textblob assigns a polarity score (between −1.0 and 1.0, where −1.0 is very negative and 1.0 is very positive) and a subjectivity score (between 0.0 and 1.0, where 0.0 is very objective and 1.0 is very subjective). From this analysis, we see that all of Bollinger's addresses have a polarity > 0.0, which makes sense, given that these are commencement addresses celebrating the accommplishments of our graduates. The addresses of 2007 and 2009 tie for highest polarity score of 1.0, and the address of 2020, the University's first-ever virtual commencement, 2 months after the <a href="https://www.nytimes.com/interactive/2022/nyregion/nyc-covid-timeline.html">arrival of Covid in New York</a>, has the lowest score of 0.14. The addresses of 2007 and 2009 also tie for the highest subjectivity score. The speech with the lowest subjectivity score is 2003, Bollinger's very first commencement address.</p> 
@@ -10,6 +9,7 @@ We were asked to create a word cloud as part of the assignment, which I did usin
 <p>Finally, I also conducted sentiment analysis across the entire length of each address, plotting the results as graphs.</p>
 
 <p>This first graph shows all 18 addresses.</p>
+![sentiment progress plot](/docs/assets/bollinger_sentiment1.jpg)
 
 <p>This next graph plots Bollinger’s longest and shortest addresses. The longest is from 2019, and celebrated what Bollinger called the ‘Centennial Class’ (The course Contemporary Civilization, considered the origins of the <a href="https://bulletin.columbia.edu/columbia-college/core-curriculum/">Core Curriculum</a>, was first established as an undergraduate requirement in 1919). The shortest address is the digitial address of 2020 (black line). The speech hitting the highest sentiment is 2013 (dark turquoise), and the lowest sentiment is 2017 (dark magenta).
 
