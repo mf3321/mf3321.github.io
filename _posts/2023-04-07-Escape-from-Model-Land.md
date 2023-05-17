@@ -1,3 +1,7 @@
+---
+title: "Escape From Model Land"
+date: 2023-04-07
+---
 ![PXL_20230426_212252512](https://user-images.githubusercontent.com/112728848/236265220-a7676d54-bdb4-4ca7-bc4a-e64f18c77464.jpg)
 
 Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do About It
