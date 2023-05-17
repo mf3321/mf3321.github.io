@@ -1,3 +1,7 @@
+---
+title: "Text Analysis President Bollinger's Commencement Speeches Part 1"
+date: 2023-04-21
+---
 <p>For Advanced Analytic Techniques (GR5018), our second lab assignment had us carry out some analysis on texts of our choosing. Examples in class drew mostly from State of the Union addresses by US presidents, or other speeches by US politicians. I opted for something closer to home, and chose to look at the <a href="https://president.columbia.edu/content/speeches-archive">commencement addresses</a> of Columbia University’s president, Lee C. Bollinger. Bollinger will step down at the end of June 2023 after 21 years at the helm. My analysis was therefore on the incomplete “set” of addresses, but I do plan on revisiting after Commencement in a few weeks time. I also didn't carry out any topic modeling, which I would like to do. I can make some guesses about the topics that appear and reappear in his speeches; but it will be interesting to do the actual analysis.</p>
 <p>I copied and pasted the text into an MSWord document and used the “Find and Replace” tool to clean up the text a bit before re-pasting into .txt files. I opted to use code to remove both stopwords (provided from the Natural Language Toolkit (NLTK) corpus) and punctuation.</p>
 
