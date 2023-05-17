@@ -1,3 +1,8 @@
+---
+title: "Democracy's Data"
+date: 2023-05-05
+---
+
 Shortly after finishing Erica Thompson’s <a href="https://mf3321.github.io/2023/04/07/Escape-from-Model-Land.html">Escape from Model Land</a>, I picked up Dan Bouk’s <a href="https://www.shroudedincloaksofboringness.com/democracysdata/">Democracy’s Data: The Hidden Stories in the U.S. Census and How to Read Them</a>. Bouk has an interesting background, having studied computational mathematics before earning his PhD in history. Somewhat naturally his area of scholarship encompasses both, “the history of bureaucracies and quantification,” as he describes. The US Census seems to fit that description perfectly. 
 
 Quantification of the American people has always been a serious business, for “...in the United States, the census and democracy are intimately intertwined. The numbers the census churns out represent ‘the people’ to the government, and they shape the political representation those people enjoy. As long as the people to be counted have a significant say in what matters and how the numbers will be used, then the census overflows with democratic potential. As long as the people control their own enumeration, then the quest to count each person is one of the purest expressions of democratic values.”
