@@ -2,6 +2,7 @@
 title: "Democracy's Data"
 date: 2023-05-05
 ---
+Democracy’s Data: The Hidden Stories in the U.S. Census and How to Read Them
 
 Shortly after finishing Erica Thompson’s <a href="https://mf3321.github.io/2023/04/07/Escape-from-Model-Land.html">Escape from Model Land</a>, I picked up Dan Bouk’s <a href="https://www.shroudedincloaksofboringness.com/democracysdata/">Democracy’s Data: The Hidden Stories in the U.S. Census and How to Read Them</a>. Bouk has an interesting background, having studied computational mathematics before earning his PhD in history. Somewhat naturally his area of scholarship encompasses both, “the history of bureaucracies and quantification,” as he describes. The US Census seems to fit that description perfectly. 
 
