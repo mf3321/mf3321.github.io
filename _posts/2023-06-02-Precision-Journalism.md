@@ -2,6 +2,7 @@
 title: "Precision Journalism"
 date: 2023-06-02
 ---
+<p>Precision Journalism</p>
 <p>In addition to <a href="https://mf3321.github.io/2023/05/19/Numbers-in-the-Newsroom.html">Numbers in the Newsroom</a>, the other book that <a href="https://www.thecity.nyc/">The City’s</a> reporters recommended was Precision Journalism by Philip Meyer. I was able to get my hands on a second edition copy published in 1979 from Barnard. That it is outdated is obvious. That its outdatedness is entertaining, is less so.</p>
 <p>It starts on the very first page, with the preface to the second edition, contentedly nostalgic for the first edition:</p>
 <p>“The first edition of this book was begun in 1969 in a Park Avenue office obligingly supplied by the Russell Sage Foundation. It was an old-fashioned building with windows that opened, and I could feel the breeze from the East River and hear New York street sounds on summer evenings. The world was somewhat different then. Some of the changes that have occurred make what I wrote sound amusingly quaint today. For example, I made a big deal out of using slide rules. You never see slide rules anymore, except perhaps in a few dime stores. I don’t even know where mine is. I certainly know where my pocket calculator is.”</p>
