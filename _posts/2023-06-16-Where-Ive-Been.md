@@ -1,5 +1,5 @@
 ---
-title: "How did I get here? My past"
+title: "Where I've Been"
 date: 2023-06-16
 ---
 <p>How did I get here? The truth is, this is not where I imagined I would be (not that I’ve ever made careful plans). First, my past.</p>
