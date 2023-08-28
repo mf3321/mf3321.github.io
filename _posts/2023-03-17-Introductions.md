@@ -24,3 +24,4 @@ I don’t know what inspired me to use car imagery since I am not a car person. 
 …and ended with this:
 <blockquote>Great Value Combo with Money-Back Guarantee</blockquote>
 <p>Who would turn that offer down?! Perhaps I should do some A/B testing to see what works best! 😉</p>
+Next post: <a href="https://mf3321.github.io/2023/03/24/Open-Data-Week-2023-and-NYC-School-of-Data-2023.html">Open Data Week 2023 and NYC School of Data 2023</a>
