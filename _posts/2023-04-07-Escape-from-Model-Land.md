@@ -3,6 +3,7 @@ title: "Escape From Model Land"
 date: 2023-04-07
 ---
 ![PXL_20230426_212252512](https://user-images.githubusercontent.com/112728848/236265220-a7676d54-bdb4-4ca7-bc4a-e64f18c77464.jpg)
+<i>@NYPL Morningside Heights Branch</i>
 
 Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do About It
 
@@ -10,5 +11,5 @@ Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We C
 <p>To explain, Thompson variously presents models as metaphor, models as caricature or stereotype, and models as perspective. In fact, Thompson explores in detail the idea that models represent a very specific perspective. Every step of data collection and model creation involves choice, and therefore values. “For this reason, I think a primary challenge for 21st century decision-making is learning to curb overenthusiasm for mathematical solutions…[since] mathematical descriptions of the world… are inevitably incomplete and… that incompleteness itself has ethical as well as practical consequences.”</p>
 <p>Despite modeling’s defects and dangers, models remain powerful tools to aid decision making, sometimes in ways that are unrelated to their content. Models have utility as guides and aids to thinking; as an impetus for a decisive course of action; as boundary objects, between different fields and areas of expertise; as “tools of social persuasion and vehicles for political debate.”<p>
 <p>Immensely readable, highly instructive.</p>
-<p>A shout-out to the librarian at the <a href="https://www.nypl.org/locations/morningside-heights">New York Public Library Morningside Branch</a>, who ran down the street with the pictured copy in her hand after we'd failed to find it on the shelf. (It was on the "new releases" shelf instead.)</p>
+<p>(A shout-out to the librarian at the <a href="https://www.nypl.org/locations/morningside-heights">New York Public Library Morningside Branch</a>, who ran down the street with the pictured copy in her hand after we'd failed to find it on the shelf. It was on the "new releases" shelf instead.)</p>
 Next post: <a href="https://mf3321.github.io/2023/04/21/Text-Analysis-President-Bollinger's-Commencement-Speeches-part-1.html">Text Analysis of President Bollinger's Commencement Speeches, Part 1</a>
