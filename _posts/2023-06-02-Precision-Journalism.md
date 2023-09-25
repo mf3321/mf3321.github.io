@@ -4,7 +4,7 @@ date: 2023-06-02
 ---
 
 ![PXL_20230828_170258035](https://github.com/mf3321/mf3321.github.io/assets/112728848/d653bfed-8012-4065-885f-007658ddda37)
-
+<i>@Columbia University Libraries Butler Library</i>
 <p>Precision Journalism: A Reporter's Introduction to Social Science Methods</p>
 <p>In addition to <a href="https://mf3321.github.io/2023/05/19/Numbers-in-the-Newsroom.html">Numbers in the Newsroom</a>, the other book that <a href="https://www.thecity.nyc/">The City’s</a> reporters recommended was Precision Journalism: A Reporter's Introduction to Social Science Methods by Philip Meyer. I was able to get my hands on a second edition copy published in 1979 from Barnard. That it is outdated is obvious. That its outdatedness is entertaining, is less so.</p>
 <p>It starts on the very first page, with the preface to the second edition, contentedly nostalgic for the first edition:</p>
