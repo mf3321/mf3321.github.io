@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT on My Mind Part 2"
+title: "ChatGPT on My Mind (part 2)"
 date: 2023-08-04
 ---
 <p>Long before mastering a tool, you must first learn to wield it. A lot of the media coverage about ChatGPT highlighted the clever, entertaining things it could do—likely because that makes for a fun read. Seeing these examples, I was certainly impressed, but I felt no compulsion to use the tool myself. I could not help but feel that using ChatGPT came with a vague sense of cheating (work averted) and of being cheated (forfeited opportunity). Nevertheless, I soon felt the need to get over my hesitance. I believe in the prognostications that such tools will become ubiquitous, and as such, believe it necessary to have at the very least a minimal level of competence. Two articles published this spring really informed my thinking.</p>
