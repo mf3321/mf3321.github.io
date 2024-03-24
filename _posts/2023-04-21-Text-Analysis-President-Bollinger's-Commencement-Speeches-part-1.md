@@ -22,4 +22,5 @@ date: 2023-04-21
 ![sentiment progress plot 3](/docs/assets/bollinger_sentiment3.jpg)
 
 <p>I am looking forward to taking a look at the complete “set.”</p>
-Next post: <a href="https://mf3321.github.io/2023/05/05/Democracy's-Data.html">Democracy's Data</a>
+<p>Next post: <a href="https://mf3321.github.io/2023/05/05/Democracy's-Data.html">Democracy's Data</a></p>
+<p>Previous post: <a href="https://mf3321.github.io/2023/04/07/Escape-from-Model-Land.html">Escape From Model Land</a></p>
