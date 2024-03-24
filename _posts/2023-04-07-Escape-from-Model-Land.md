@@ -10,4 +10,5 @@ date: 2023-04-07
 <p>Despite modeling’s defects and dangers, models remain powerful tools to aid decision making, sometimes in ways that are unrelated to their content. Models have utility as guides and aids to thinking; as an impetus for a decisive course of action; as boundary objects, between different fields and areas of expertise; as “tools of social persuasion and vehicles for political debate.”<p>
 <p>Immensely readable, highly instructive.</p>
 <p>(A shout-out to the librarian at the <a href="https://www.nypl.org/locations/morningside-heights">New York Public Library Morningside Heights Branch</a>, who ran down the street with the pictured copy in her hand after we'd failed to find it on the shelf. It was on the "new releases" shelf instead.)</p>
-Next post: <a href="https://mf3321.github.io/2023/04/21/Text-Analysis-President-Bollinger's-Commencement-Speeches-part-1.html">Text Analysis of President Bollinger's Commencement Speeches, Part 1</a>
+<p>Next post: <a href="https://mf3321.github.io/2023/04/21/Text-Analysis-President-Bollinger's-Commencement-Speeches-part-1.html">Text Analysis of President Bollinger's Commencement Speeches, Part 1</a></p>
+<p>Previous post: <a href="https://mf3321.github.io/2023/03/24/Open-Data-Week-2023-and-NYC-School-of-Data-2023.html">Open Data Week 2023 and NYC School of Data 2023</a></p>
